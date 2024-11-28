@@ -1,4 +1,4 @@
-# library_management_system
+# Library_management_system
 
 A Library Management System (LMS) is an advanced digital tool designed to efficiently manage and automate various library operations. This system streamlines traditional library tasks such as cataloging books, tracking issued and returned materials, maintaining user records, and calculating fines for overdue books. By transitioning from manual processes to an automated platform, libraries can enhance accuracy, reduce labor-intensive tasks, and improve user experiences.
 
